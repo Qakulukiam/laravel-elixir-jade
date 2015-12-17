@@ -25,7 +25,7 @@
     "url": "https://github.com/CREEATION/laravel-elixir-jade"
   },
   "dependencies": {
-    "gulp-jade": "^1.0.0",
+    "gulp-jade": "git://github.com/eschmid72/gulp-jade",
     "gulp-notify": "^2.2.0",
     "gulp-plumber": "^0.6.6",
     "gulp-rename": "^1.2.0",
